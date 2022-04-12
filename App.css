@@ -1,0 +1,40 @@
+.app {
+  background: #209cee;
+  height: 100vh;
+  padding: 30px;
+}
+
+.todo-list {
+  background: brown;
+  border-radius: 100px;
+  max-width: 400px;
+  padding: 5px;
+  padding: 30px 50px
+}
+
+.todo {
+  align-items: center;
+  background: #fff;
+  border-radius: 3px;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
+  display: flex;
+  font-size: 12px;
+  justify-content: space-between;
+  margin-bottom: 6px;
+  padding: 3px 10px;
+}
+
+.toDoContainer {
+  display: block;
+  padding-bottom: 50px;
+  
+}
+
+.header {
+  text-align: center;
+  color: bisque;
+}
+.addToDoContainer {
+  width: 150px;
+  height: 50px;
+}
